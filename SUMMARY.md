@@ -7,5 +7,5 @@
     translation:
       ref:
         kind: translation
-        translation: tr_lB2hO
+        translation: tr_m25K4
   ```
