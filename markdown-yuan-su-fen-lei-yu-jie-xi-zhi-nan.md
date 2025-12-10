@@ -11,16 +11,18 @@ Markdown 文档由一系列**块级元素**（blocks）组成，块级元素内�
 * **块级元素**（Block）：定义文档的结构，如段落、列表、引用等
 * **内联元素**（Inline）：块级元素内部的格式化内容，如强调、链接、图片等
 
-<pre><code><strong>```mermaid
-</strong><strong>graph TB
-</strong>    A[复杂性挑战] --> B[依赖管理]
+```mermaid
+graph TB
+    A[复杂性挑战] --> B[依赖管理]
     A --> C[数据一致性]
     A --> D[服务治理]
     B --> E[模块耦合度高]
     C --> F[分布式事务]
     D --> G[链路追踪困难]
 ```
-</code></pre>
+
+```plantuml
+```
 
 #### 文档解析的基本原则
 
