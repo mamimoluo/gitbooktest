@@ -1,3 +1,33 @@
+---
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: false
+    size: full
+    mask: none
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+tags:
+  - tag1
+---
+
 # 云服务器ECS的特性与优势-阿里云帮助中心
 
 云服务器ECS（Elastic Compute Service）是一种产品丰富、安全可靠、便捷易用、弹性可伸缩的云计算服务，助您降低IT成本，提升运维效率，使您更专注于核心业务创新。
